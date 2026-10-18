@@ -1,0 +1,29 @@
+{
+  "note": "HD car images. Only files listed here are loaded; a missing file keeps the procedural look.",
+  "files": [
+    "rim-wedge.png",
+    "headlight-wedge.png",
+    "taillight-wedge.png",
+    "grille-wedge.png",
+    "rim-muscle.png",
+    "livery-muscle.png",
+    "headlight-muscle.png",
+    "taillight-muscle.png",
+    "grille-muscle.png",
+    "rim-gt.png",
+    "livery-gt.png",
+    "headlight-gt.png",
+    "taillight-gt.png",
+    "grille-gt.png",
+    "rim-hatch.png",
+    "headlight-hatch.png",
+    "taillight-hatch.png",
+    "grille-hatch.png",
+    "hero-wedge.png",
+    "hero-muscle.png",
+    "hero-gt.png",
+    "hero-hatch.png",
+    "livery-wedge.png",
+    "livery-hatch.png"
+  ]
+}
